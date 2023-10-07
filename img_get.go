@@ -7,6 +7,7 @@ import (
 	"os"
 )
 
+// test
 func ImageGet() {
 	// URL of the image you want to download
 	//imageUrl := "https://images.pexels.com/photos/17929271/pexels-photo-17929271/free-photo-of-woman-standing-on-vineyard.jpeg"
